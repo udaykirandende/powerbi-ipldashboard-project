@@ -43,4 +43,4 @@ This project presents an interactive Power BI dashboard analyzing Indian Premier
 3. Explore the dashboard using filters and visuals  
 
 ## 🔗 Project Link
-(Add your GitHub repository link here)
+(https://github.com/udaykirandende/powerbi-ipldashboard-project/blob/main/ipl08-25.pbix)
